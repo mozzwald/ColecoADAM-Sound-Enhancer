@@ -1,0 +1,17 @@
+RefDes,Value,Name,Quantity,Datasheet
+C1,0.1uF,CAP100,1,
+C2,0.1uF,CAP100,1,
+C3,0.1uF,CAP100,1,
+C4,0.1uF,CAP100,1,
+C5,10uF,CAP100,1,
+D1,,LED,1,
+J1,,Expansion Card Header 2x30 (60 pin),1,https://www.aliexpress.us/item/2255800960638500.html
+J2,,HDR-1x2,1,
+R1,330,RES400,1,
+R2,2.7K,RES400,1,
+R3,1K,RES400,1,
+U1,,SN74LS32N,1,
+U2,,SN74LS138N,1,
+U3,,SN74LS00N,1,
+U4,,SN74LS74AN,1,
+U5,,AY-3-8910,1,
